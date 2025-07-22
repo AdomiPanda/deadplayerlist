@@ -1,0 +1,17 @@
+name: DeadPlayerList
+version: 1.0
+main: me.adomi.DeadPlayerList.DeadPlayerList
+api-version: 1.16
+description: A plugin to track player deaths and determine the last surviving player
+author: _Adomi
+
+commands:
+  dl:
+    description: Main command for DeadPlayer plugin
+    usage: /dl <start|stop|kill|revive|tp|help>
+    permission: deadplayerlist.admin
+
+permissions:
+  deadplayerlist.admin:
+    description: Allows access to all DeadPlayer commands
+    default: op

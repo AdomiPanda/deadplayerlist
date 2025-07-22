@@ -1,0 +1,71 @@
+# this plugin is using custom HEX colors for the messages
+# if you want you can edit it to your wishes
+
+# %player% will tag the player that the comment was used on!
+
+# if you found any bugs pls report to _adomi on discord!
+
+messages:
+  # System messages
+  plugin-loaded: ""
+  plugin-enabled: "#4FB05BDead Player List is now ON"
+  plugin-disabled: "#CE0A00Dead Player List is now OFF"
+  not-enabled: "#CE0A00Dead Player List is off please toggle him first"
+  config-reloaded: "#4FB05BDead Player List successfully reloaded"
+
+  # Activation messages
+  plugin-activated: "#4FB05BThe game started successfully"
+  plugin-deactivated: "#A10410The game stoped successfully"
+  already-active: "#9A8888The game is already on"
+  already-inactive: "#9A8888The game is already off"
+
+  # Player messages
+  late-join: "#B5191EYou entered late, so you were disqualified."
+  winner: "#F99806&l%player%#F99806 Is thw winner of the game"
+
+  # Command messages
+  no-permission: "#CE0A00You do not have access or the command is not recognized."
+  unknown-command: "#CE0A00You do not have access or the command is not recognized."
+
+  # Kill/Revive messages
+  kill-usage: "#A10410Usage: /dl kill <player>"
+  player-offline: "#A10410%player% is offline"
+  player-killed: "#A10410%player% is now dead"
+  you-were-killed: "#A10410&lYou were killed"
+
+  revive-usage: "#A10410Usage: /dl revive <player>"
+  player-revived: "#2AA337%player% Is now alive"
+  you-were-revived: "#2AA337You were revived"
+  broadcast-revived: "#FFFFFF%player%#4FB05B Is now back alive!"
+  player-not-dead: "#A10410%player% wasn't dead"
+
+  # Teleport messages
+  tp-usage: "#A10410Usage: /dl tp <alive|dead>"
+  teleported-alive: "#DB2499teleporting to you all the #A10410&lalive #DB2499players"
+  teleported-dead: "#DB2499teleporting to you all the #A10410&ldead #DB2499players"
+
+  # Help message (editable part)
+  help:
+    - ""
+    - "#F99806---= DeadPlayerList Help =---"
+    - "#9A8888- /dl toggle - Enable/disable the plugin"
+    - "#9A8888- /dl start - Start the game"
+    - "#9A8888- /dl stop - Stop the game"
+    - "#9A8888- /dl kill <player> - Killing a player"
+    - "#9A8888- /dl revive <player> - Revive a player"
+    - "#9A8888- /dl tp <alive|dead> - Teleport dead|alive players"
+    - "#9A8888- /dl reload - Reload Confiy.yml file"
+
+
+  #Hex color codes:
+  #to use hex color code put # and then the code
+
+  # #4FB05B - Lime
+  # #CE0A00 - Bright Red
+  # #F99806 - Gold
+  # #A10410 - Red
+  # #2AA337 - Green
+  # #DB2499 - Purple
+  # #9A8888 - Gray
+
+  # if you found any bugs pls report to _adomi on discord!
