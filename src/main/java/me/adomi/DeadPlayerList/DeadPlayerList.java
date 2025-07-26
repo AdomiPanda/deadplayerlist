@@ -87,9 +87,9 @@ public final class DeadPlayerList extends JavaPlugin implements Listener, TabExe
         }
         if (alive.size() == 1) {
             Bukkit.broadcastMessage(getMessage("winner1"));
-            Bukkit.broadcastMessage("#FF84DE");
+            Bukkit.broadcastMessage("#FF84DD");
             Bukkit.broadcastMessage(getMessage("winner2", alive.get(0)));
-            Bukkit.broadcastMessage("#FF84DE");
+            Bukkit.broadcastMessage("#FF84DD");
             isActive = false;
         }
     }
