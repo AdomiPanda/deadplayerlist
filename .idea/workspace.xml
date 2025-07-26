@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bd1c1e69-cc7f-4568-9220-3134523f37c1" name="Changes" comment="The full plugin. If you find any bugs pls report to _adomi on discord.&#10;&#10;Have fun." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="AdomiPanda" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AdomiPanda&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AdomiPanda/deadplayerlist.git&quot;,
+    &quot;accountId&quot;: &quot;6664db28-faf7-471b-aa4e-019b2355fdd6&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2tpCFOopizXSvvnmBXxBOrBuunp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.DeadPlayerList [clean].executor": "Run",
+    "Maven.DeadPlayerList [package].executor": "Run",
+    "Maven.parladead_ [package].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/deadplayerlist",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.editor",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="mcdev-temp-root" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="mcdev-temp-root" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="parladead_ [package]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd1c1e69-cc7f-4568-9220-3134523f37c1" name="Changes" comment="" />
+      <created>1741039527077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741039527077</updated>
+      <workItem from="1741039528553" duration="39000" />
+      <workItem from="1741039580028" duration="193000" />
+      <workItem from="1741039870505" duration="48000" />
+      <workItem from="1741039963878" duration="23000" />
+      <workItem from="1741039999625" duration="1624000" />
+      <workItem from="1741091510634" duration="594000" />
+      <workItem from="1741380857335" duration="2070000" />
+      <workItem from="1741438026549" duration="2450000" />
+      <workItem from="1741886050355" duration="1775000" />
+      <workItem from="1742650538560" duration="54000" />
+      <workItem from="1742720826968" duration="19000" />
+      <workItem from="1750670429019" duration="2653000" />
+      <workItem from="1750673100251" duration="5329000" />
+      <workItem from="1750720187848" duration="3882000" />
+      <workItem from="1750726136351" duration="1275000" />
+      <workItem from="1750782685632" duration="801000" />
+      <workItem from="1750783508866" duration="515000" />
+      <workItem from="1750896349474" duration="54000" />
+      <workItem from="1751158354008" duration="1628000" />
+      <workItem from="1752998390257" duration="5538000" />
+      <workItem from="1753128284287" duration="1696000" />
+    </task>
+    <task id="LOCAL-00001" summary="The full plugin. If you find any bugs pls report to _adomi on discord.&#10;&#10;Have fun.">
+      <option name="closed" value="true" />
+      <created>1753176987735</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753176987735</updated>
+    </task>
+    <task id="LOCAL-00002" summary="The full plugin. If you find any bugs pls report to _adomi on discord.&#10;&#10;Have fun.">
+      <option name="closed" value="true" />
+      <created>1753562564429</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1753562564429</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.spigotmc:spigot-api" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="The full plugin. If you find any bugs pls report to _adomi on discord.&#10;&#10;Have fun.&#10;&#10;Signed-off-by: _adomi &lt;eranerank9@gmail.com&gt;" />
+    <MESSAGE value="The full plugin. If you find any bugs pls report to _adomi on discord.&#10;&#10;Have fun." />
+    <option name="LAST_COMMIT_MESSAGE" value="The full plugin. If you find any bugs pls report to _adomi on discord.&#10;&#10;Have fun." />
+  </component>
+</project>
