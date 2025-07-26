@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd1c1e69-cc7f-4568-9220-3134523f37c1" name="Changes" comment="The full plugin. If you find any bugs pls report to _adomi on discord.&#10;&#10;Have fun." />
+    <list default="true" id="bd1c1e69-cc7f-4568-9220-3134523f37c1" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +20,6 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
-    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -40,25 +41,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Maven.DeadPlayerList [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.DeadPlayerList [package].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.parladead_ [package].executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/deadplayerlist&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.DeadPlayerList [clean].executor": "Run",
+    "Maven.DeadPlayerList [package].executor": "Run",
+    "Maven.parladead_ [package].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/deadplayerlist",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.editor",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="mcdev-temp-root" />
@@ -148,7 +150,63 @@
       <option name="project" value="LOCAL" />
       <updated>1753562564429</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="The full plugin. If you find any bugs pls report to _adomi on discord.&#10;&#10;Have fun.">
+      <option name="closed" value="true" />
+      <created>1753562982285</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1753562982285</updated>
+    </task>
+    <task id="LOCAL-00004" summary="The full plugin. If you find any bugs pls report to _adomi on discord.&#10;&#10;Have fun.">
+      <option name="closed" value="true" />
+      <created>1753562988313</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1753562988313</updated>
+    </task>
+    <task id="LOCAL-00005" summary="The full plugin. If you find any bugs pls report to _adomi on discord.&#10;&#10;Have fun.">
+      <option name="closed" value="true" />
+      <created>1753563055367</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1753563055367</updated>
+    </task>
+    <task id="LOCAL-00006" summary="The full plugin. If you find any bugs pls report to _adomi on discord.&#10;&#10;Have fun.">
+      <option name="closed" value="true" />
+      <created>1753563181035</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1753563181035</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1753563409526</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1753563409526</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Winner Msg Update">
+      <option name="closed" value="true" />
+      <created>1753563480110</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1753563480110</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1753563588800</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1753563588800</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,8 +216,11 @@
     <option featureType="dependencySupport" implementationName="java:org.spigotmc:spigot-api" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="The full plugin. If you find any bugs pls report to _adomi on discord.&#10;&#10;Have fun.&#10;&#10;Signed-off-by: _adomi &lt;eranerank9@gmail.com&gt;" />
     <MESSAGE value="The full plugin. If you find any bugs pls report to _adomi on discord.&#10;&#10;Have fun." />
-    <option name="LAST_COMMIT_MESSAGE" value="The full plugin. If you find any bugs pls report to _adomi on discord.&#10;&#10;Have fun." />
+    <MESSAGE value="The full plugin. If you find any bugs pls report to _adomi on discord.&#10;&#10;Have fun.&#10;&#10;Signed-off-by: _adomi &lt;eranerank9@gmail.com&gt;" />
+    <MESSAGE value="Winner Msg Update" />
+    <MESSAGE value="Winner Msg Update&#10;&#10;Signed-off-by: _adomi &lt;eranerank9@gmail.com&gt;" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
