@@ -21,7 +21,8 @@ messages:
 
   # Player messages
   late-join: "#B5191EYou entered late, so you were disqualified."
-  winner: "#F99806&l%player%#F99806 Is thw winner of the game"
+  winner1: "#F99806&lGAME WINNER"
+  winner2: "#F99806%player%#F99806 Is thw winner of the game!"
 
   # Command messages
   no-permission: "#CE0A00You do not have access or the command is not recognized."
